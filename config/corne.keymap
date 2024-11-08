@@ -131,7 +131,7 @@
    &none  &kp Q        &kp W        &kp F       &kp P       &kp G      &kp J  &kp L       &kp U       &kp Y        &kp LGUI     &none
    &none  &hm LSHFT A  &hm LCTRL R  &hm LALT S  &hm LCTRL T &kp D      &kp H  &hm RCTRL N  &hm RALT E  &hm RCTRL I  &hm RSHFT O  &none
    &none  &kp Z        &kp X        &kp C       &kp V       &kp B      &kp K  &kp M       &kp COMMA   &kp DOT      &kp FSLH     &none
-                             &none  &ltr 0 SPACE  &lt NUMBER ESC      &lt SYSTEM RET  &lt SYMBOL BSPC  &sk LSHIFT
+                             &none  &ltrw 0 SPACE  &lt NUMBER ESC      &lt SYSTEM RET  &lt SYMBOL BSPC  &sk LSHIFT
             >;
         };
 
