@@ -11,6 +11,10 @@
 #define SYSTEM 6
 #define ALTAB 7
 
+&lt {
+    quick-tap-ms = <150>;
+};
+
 / {
     behaviors {
         hm: homerow_mods {
